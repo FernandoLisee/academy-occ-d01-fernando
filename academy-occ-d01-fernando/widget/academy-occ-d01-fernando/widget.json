@@ -1,0 +1,42 @@
+{
+  "availableToAllPages": true,
+  "config": {
+    "image1": {
+      "mediaName": "/general/9635.png",
+      "src": "/file/v1481821383750956284/general/9635.png"
+    },
+    "image2": {
+      "mediaName": "/general/achocolatado.png",
+      "src": "/file/v8703229074581150759/general/achocolatado.png"
+    },
+    "image3": {
+      "mediaName": "/general/achocolatado_friminho.png",
+      "src": "/file/v2794219966281934638/general/achocolatado_friminho.png"
+    },
+    "image4": {
+      "mediaName": "/general/bacon_especial.png",
+      "src": "/file/v1751611921864859670/general/bacon_especial.png"
+    },
+    "title1": "teste"
+  },
+  "global": false,
+  "globalEnabled": true,
+  "imports": [],
+  "javascript": "academy-occ-d01-fernando",
+  "jsEditable": true,
+  "minWidth": 1,
+  "source": 101,
+  "translations": [
+    {
+      "language": "en",
+      "name": "academy-occ-d01-fernando"
+    },
+    {
+      "language": "pt_BR",
+      "name": "academy-occ-d01-fernando"
+    }
+  ],
+  "version": 1,
+  "widgetFamily": "academy-occ-d01-fernando",
+  "widgetType": "academy-occ-d01-fernando"
+}

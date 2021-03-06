@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "labeltitle1": "Digite o título do banner",
+    "helptitle1": "Campo para o titulo do banner",
+    "labelImage1": "Selecione a imagem 1",
+    "labelImage2": "Selecione a imagem 2",
+    "labelImage3": "Selecione a imagem 3",
+    "labelImage4": "Selecione a imagem 4"    
+  }
+}
